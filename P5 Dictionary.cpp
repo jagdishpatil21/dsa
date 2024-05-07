@@ -145,6 +145,9 @@ int main() {
 
 
 /*
+
+Time Complexity : O(log n)
+
 Theory :
 
 
